@@ -1,5 +1,5 @@
-aws_access_key = "AKIA3OUIWJR7G4VBAYU6"
-aws_secret_key = "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"
+#aws_access_key = ""
+#aws_secret_key = ""
 region = "us-east-1"
 vpc_cidr = "192.168.0.0/16"
 key_name = "My_task_key_pair"
